@@ -1,4 +1,4 @@
-#Transcription resources
+# Transcription resources
 
 [Instructions to access the OpenAI API](https://platform.openai.com/docs/api-reference/introduction)
 
