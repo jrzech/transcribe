@@ -4,5 +4,5 @@
 
 whisper.cpp: example code demonstrating how to obtain audio transcriptions from the Whisper v2 large model ('whisper-1' in API)
 
-data.xlsx: dataset used in this transcription comparison projecti
+data.xlsx: dataset used in this transcription comparison project
 
